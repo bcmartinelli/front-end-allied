@@ -1,4 +1,5 @@
 
+
 # Front-End test - Allied Brasil
 
   
@@ -21,8 +22,8 @@ This project was developed for front-end wave of the Allied Brasil company using
 
   
 
-Clone the project from github https://github.com/martinelli4630/front-end-allied.git
-Access the project folder. You can use the `cd allied-plants` command in the terminal
+- Clone the project from github https://github.com/martinelli4630/front-end-allied.git
+- Enter project folder `cd front-end-allied`
 
   
 
