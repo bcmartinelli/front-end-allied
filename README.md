@@ -22,23 +22,17 @@ This project was developed for front-end wave of the Allied Brasil company using
 
   
 
-- Clone the project from github https://github.com/martinelli4630/front-end-allied.git
+- Clone project https://github.com/martinelli4630/front-end-allied.git
 - Enter project folder `cd front-end-allied`
+- Install dependencies `npm install` or `yarn`
 
   
 
-**Download project dependencies**
-
-
-Run `npm install` or `yarn`
+## Start development server
 
   
 
-## Development server
-
-  
-
-Run `npm run dev` or `yarn dev` for a dev server. Navigate to `http://localhost:3000`. 
+Run `npm run dev` or `yarn dev` for a dev server. Access http://localhost:3000 in your browser. 
 
 
 
@@ -46,4 +40,4 @@ Run `npm run dev` or `yarn dev` for a dev server. Navigate to `http://localhost:
 
   
 
-* Bruno C. Martinelli
+* [Bruno Martinelli](https://github.com/martinelli4630)
