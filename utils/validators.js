@@ -83,8 +83,6 @@ export const minimumAge = (value) => {
   const date = dateFromString(value)
   const now = new Date()
 
-  console.log(new Date(date));
-  
   if (isBefore(now, date)) {
     return 'Data não pode ser maior que a a data minima.'
   }
